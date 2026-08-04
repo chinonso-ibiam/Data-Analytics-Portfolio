@@ -1,6 +1,18 @@
 
 # Telecom Customer Churn Analysis
 
+
+## Related Project Files
+
+### SQL Analysis
+
+See:
+SQL Projects/Telecom Customer Churn SQL
+
+### Python EDA
+
+See:
+Python Projects/Telecom Customer Churn EDA
 ## Overview
 
 This project analyzes customer churn patterns within a telecom company using SQL, Python, Excel, and Power BI.
@@ -68,14 +80,3 @@ Analysis of:
 4. Develop loyalty programs for high-value customers.
 5. Implement targeted retention campaigns for high-risk segments.
 
-## Related Project Files
-
-### SQL Analysis
-
-See:
-SQL Projects/Telecom Customer Churn SQL
-
-### Python EDA
-
-See:
-Python Projects/Telecom Customer Churn EDA
