@@ -1,5 +1,13 @@
 # Telecom Customer Churn EDA
 
+Related Components
+
+Power BI Dashboard:
+Power BI Projects/Telecom Customer Churn Analysis
+
+Python EDA:
+Python Projects/Telecom Customer Churn EDA
+
 ## Main Analysis File
 
 The complete exploratory data analysis workflow can be found in:
