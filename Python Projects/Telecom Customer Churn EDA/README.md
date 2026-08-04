@@ -2,11 +2,11 @@
 
 Related Components
 
+SQL Analysis:
+SQL Projects/Telecom Customer Churn SQL
+
 Power BI Dashboard:
 Power BI Projects/Telecom Customer Churn Analysis
-
-Python EDA:
-Python Projects/Telecom Customer Churn EDA
 
 ## Main Analysis File
 
