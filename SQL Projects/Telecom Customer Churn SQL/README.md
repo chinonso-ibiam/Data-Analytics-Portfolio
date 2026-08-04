@@ -1,6 +1,8 @@
 
 # Telecom Customer Churn SQL Analysis
 
+
+
 Related Components
 
 Power BI Dashboard:
@@ -8,6 +10,7 @@ Power BI Projects/Telecom Customer Churn Analysis
 
 Python EDA:
 Python Projects/Telecom Customer Churn EDA
+
 
 ## Overview
 
