@@ -3,20 +3,26 @@
 
 ## Executive Summary
 
-https://github.com/chinonso-ibiam/Data-Analytics-Portfolio/blob/main/Power%20BI%20Projects/Telecom%20Customer%20Churn%20Analysis/Executive_summary.png?raw=true
+Executive_summary.png
 
+## Customer Segmentation
+
+Customer_segmentation.png
+
+## Churn Drivers
+
+Churn_drivers.png
 
 ## Related Project Files
 
 ### SQL Analysis
 
-See:
-SQL Projects/Telecom Customer Churn SQL
+See: SQL Projects/Telecom Customer Churn SQL
 
 ### Python EDA
 
-See:
-Python Projects/Telecom Customer Churn EDA
+See: Python Projects/Telecom Customer Churn EDAL
+
 ## Overview
 
 This project analyzes customer churn patterns within a telecom company using SQL, Python, Excel, and Power BI.
