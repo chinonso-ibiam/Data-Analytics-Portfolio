@@ -1,5 +1,10 @@
 # Telecom Customer Churn EDA
 
+
+## Overview
+
+Exploratory Data Analysis (EDA) was performed using Python to identify customer churn patterns and support dashboard development.
+
 ## Dataset
 
 Source: IBM Telco Customer Churn Dataset
@@ -8,10 +13,6 @@ Records: 7,043 customers
 
 Target Variable:
 - Churn (Yes/No)
-
-## Overview
-
-Exploratory Data Analysis (EDA) was performed using Python to identify customer churn patterns and support dashboard development.
 
 ## Libraries Used
 
