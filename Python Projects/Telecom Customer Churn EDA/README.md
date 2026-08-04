@@ -1,9 +1,8 @@
-
 # Telecom Customer Churn EDA
 
 ## Overview
 
-Exploratory Data Analysis (EDA) performed using Python to understand customer churn behavior and identify churn drivers.
+Exploratory Data Analysis (EDA) was performed using Python to identify customer churn patterns and support dashboard development.
 
 ## Libraries Used
 
@@ -12,9 +11,9 @@ Exploratory Data Analysis (EDA) performed using Python to understand customer ch
 - Matplotlib
 - Seaborn
 
-## Visualizations
+## Analysis Conducted
 
-- Churn Distribution
+- Customer Churn Distribution
 - Churn by Contract Type
 - Churn by Gender
 - Churn by Internet Service
@@ -24,7 +23,13 @@ Exploratory Data Analysis (EDA) performed using Python to understand customer ch
 
 ## Key Findings
 
-- Churn rate was approximately 26.5%.
-- Month-to-Month customers showed the highest churn levels.
-- Customers with shorter tenure were more likely to churn.
+- Churn Rate: 26.54%
+- Month-to-Month customers exhibited the highest churn.
+- Customers with lower tenure were more likely to churn.
 - Higher monthly charges were associated with increased churn.
+- Fiber Optic customers accounted for a significant share of churn.
+
+## Related Projects
+
+- SQL Analysis
+- Power BI Dashboard
