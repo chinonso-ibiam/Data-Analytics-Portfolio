@@ -1,9 +1,10 @@
 
 # Telecom Customer Churn Analysis
 
-## Executive Summary
-https://github.com/chinonso-ibiam/Data-Analytics-Portfolio/blob/main/Power%20BI%20Projects/Telecom%20Customer%20Churn%20Analysis/Executive%20Summary.png?raw=true
 
+## Executive Summary
+
+https://github.com/chinonso-ibiam/Data-Analytics-Portfolio/blob/main/Power%20BI%20Projects/Telecom%20Customer%20Churn%20Analysis/Executive%20Summary.png?raw=true
 
 
 ## Related Project Files
