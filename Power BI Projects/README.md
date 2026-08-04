@@ -3,8 +3,6 @@
 Projects completed using Power BI.
 
 
-## Power BI Projects
-
 ### Telecom Customer Churn Analysis
 
 Tools Used:
