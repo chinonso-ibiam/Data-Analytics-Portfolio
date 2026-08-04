@@ -1,6 +1,14 @@
 
 # Telecom Customer Churn SQL Analysis
 
+Related Components
+
+Power BI Dashboard:
+Power BI Projects/Telecom Customer Churn Analysis
+
+Python EDA:
+Python Projects/Telecom Customer Churn EDA
+
 ## Overview
 
 SQL analysis performed on the Telecom Customer Churn dataset to identify key churn trends and customer behavior patterns.
