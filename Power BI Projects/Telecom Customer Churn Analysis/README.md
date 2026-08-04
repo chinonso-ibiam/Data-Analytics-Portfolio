@@ -3,15 +3,15 @@
 
 ## Executive Summary
 
-Executive_summary.png
+![Executive Summary](https://raw.githubusercontent.com/chinonso-ibiam/Data-Analytics-Portfolio/main/Power%20BI%20Projects/Telecom%20Customer%20Churn%20Analysis/Executive_summary.png)
 
 ## Customer Segmentation
 
-Customer_segmentation.png
+![Customer Segmentation](https://raw.githubusercontent.com/chinonso-ibiam/Data-Analytics-Portfolio/main/Power%20BI%20Projects/Telecom%20Customer%20Churn%20Analysis/Customer_segmentation.png)
 
 ## Churn Drivers
 
-Churn_drivers.png
+![Churn Drivers](https://raw.githubusercontent.com/chinonso-ibiam/Data-Analytics-Portfolio/main/Power%20BI%20Projects/Telecom%20Customer%20Churn%20Analysis/Churn_drivers.png)
 
 ## Related Project Files
 
