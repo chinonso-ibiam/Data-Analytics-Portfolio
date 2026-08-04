@@ -67,3 +67,15 @@ Analysis of:
 3. Investigate churn among Fiber Optic subscribers.
 4. Develop loyalty programs for high-value customers.
 5. Implement targeted retention campaigns for high-risk segments.
+
+## Related Project Files
+
+### SQL Analysis
+
+See:
+SQL Projects/Telecom Customer Churn SQL
+
+### Python EDA
+
+See:
+Python Projects/Telecom Customer Churn EDA
