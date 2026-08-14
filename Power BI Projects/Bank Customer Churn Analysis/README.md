@@ -21,7 +21,7 @@ Churn_Drivers.png
 - Churn Rate: 20.37%
 - Germany recorded the highest churn levels.
 - Inactive customers churned significantly more than active customers.
-- Customers aged 31–60 accounted for the majority of churn.
+-  Older customers are more likely to churn.
 - Customers with Fair and Poor credit scores exhibited higher churn levels.
 - Customers holding only one product represented the largest churn segment.
 
